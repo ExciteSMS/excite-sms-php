@@ -24,7 +24,7 @@ To get started with this application, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/excite-sms-php.git
+   git clone https://github.com/kazashim/excite-sms-php.git
    cd excite-sms-php
    ```
 
